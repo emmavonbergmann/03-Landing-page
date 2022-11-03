@@ -1,0 +1,29 @@
+#works{
+  text-align: center;
+  color: #000000;
+  font-weight: bolder;
+  font-size: 1.5em;
+}
+.container-cards{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0 140px;
+  padding: 20px;
+}
+.cards{
+  text-align: center;
+  box-shadow: 0 0 5px rgb(186, 182, 182)  ;
+  background-color: white;
+  padding: 50px;
+  height: 230px;
+  width: 150px;
+}
+
+.cards img{
+  height: 120px;
+}
+.cards p{
+  color:#c4c1c1;
+  font-weight: lighter;
+}
